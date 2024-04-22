@@ -71,20 +71,20 @@ The Pieces Copilot Streamlit Bot is an interactive chatbot application built usi
 
 ## Contributing
 
-We welcome your contributions to Pieces! All changes (even with commit access) need a pull request & thumbs-up from a core dev
+We welcome your contributions to Pieces! All changes need a pull request & thumbs-up from our maintainers [@shivay-at-pieces](https://github.com/shivay-at-pieces) and [@mason-at-pieces](https://github.com/mason-at-pieces)
 
-We love ❤️ pull requests! Feel free to make a PR or raise an issue.
+We love ❤️ pull requests! Feel free to fork the repository, make your changes, and open a pull request.
 
 
 ## Security
 
-If you discover any security-related issues, please email [security@pieces.app](mailto:security@pieces.app).
+If you discover any security-related issues, create an issue and tag our maintainers [@shivay-at-pieces](https://github.com/shivay-at-pieces) and [@mason-at-pieces](https://github.com/mason-at-pieces)
 
 ## Connect with Us
 
 - Join Our [Discord](https://discord.gg/getpieces)
 - Follow us on [Twitter](https://twitter.com/getpieces)
-- Connect with us on [LinkedIn](https://www.linkedin.com/company/getpieces/mycompany)
+- Connect with us on [LinkedIn](https://www.linkedin.com/company/getpieces)
 - Subscribe and turn on notifications to our [YouTube page](https://www.youtube.com/@getpieces)
 
 ## License
